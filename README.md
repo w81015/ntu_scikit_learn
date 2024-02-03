@@ -1,1 +1,8 @@
-Assignment and project for Machine Learning course in National Taiwan University.
+# 台大資訊系統訓練班：機器學習課程
+## 內容
+
+### 作業
+- 課程作業涵蓋了資料處理、清理、機器學習練習
+- 
+### 專案
+- 自行選定一個主題，運用課程中學到的機器學習知識來解決實際問題
