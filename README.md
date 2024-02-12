@@ -1,5 +1,6 @@
-# 台大資訊系統訓練班：機器學習課程 
-Machine Learning Courses at NTU (Information System Training Program)
+# 機器學習課程（台大資訊系統訓練班）
+# Machine Learning Courses at NTU (Information System Training Program)
+
 ## 內容 Content
 
 ### 作業 Assignment
